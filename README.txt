@@ -1,5 +1,5 @@
 UNCORN COMPANIES
-An Exploratory Data Analysis Performed by Nnamdi Leonard Ogbuefi
+An Exploratory Data Analysis Performed by Nnamdi Leonard
 
 -------------------------------------------------------------------------------------------------------------------
 Order Of Execution:
