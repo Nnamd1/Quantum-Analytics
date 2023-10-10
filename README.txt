@@ -3,10 +3,19 @@ An Exploratory Data Analysis Performed by Nnamdi Leonard
 
 -------------------------------------------------------------------------------------------------------------------
 Order Of Execution:
-- Importation of required Python Libraries and dataset.
-- Data Cleaning Processes
-- Analysis
+- Business Requirement / Understanding 
+- Understanding the Dataset given, and deducing a data dictionary
+- Data Cleaning Processes / Transformation
+- Analysis and Findings
 - Recommendation
+
+-------------------------------------------------------------------------------------------------------------------
+BUSINESS REQUIREMENT:
+
+Perform a basic exploratory data analysis of the features of the Unicorn Companies dataset and come up with data 
+driven recommendations to help Unicorn Companies in creating good business models and making decisions that will 
+focus on companies with high growth potential, diversify investment portfolio and prioritize companies with experienced 
+leadership teams.
 
 -------------------------------------------------------------------------------------------------------------------
 DATA CLEANING PROCESSES 
